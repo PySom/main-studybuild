@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.489568b5.chunk.css",
-    "main.js": "/static/js/main.c6e9b32e.chunk.js",
-    "main.js.map": "/static/js/main.c6e9b32e.chunk.js.map",
+    "main.css": "/static/css/main.1fc54645.chunk.css",
+    "main.js": "/static/js/main.e9afe329.chunk.js",
+    "main.js.map": "/static/js/main.e9afe329.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.92208f9f.js",
     "runtime-main.js.map": "/static/js/runtime-main.92208f9f.js.map",
     "static/css/2.650c28d8.chunk.css": "/static/css/2.650c28d8.chunk.css",
     "static/js/2.acc185e9.chunk.js": "/static/js/2.acc185e9.chunk.js",
     "static/js/2.acc185e9.chunk.js.map": "/static/js/2.acc185e9.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4f8451dce5403584955a5aafaabd7c09.js": "/precache-manifest.4f8451dce5403584955a5aafaabd7c09.js",
+    "precache-manifest.5291c7586f309a903dc40f5797df5d4d.js": "/precache-manifest.5291c7586f309a903dc40f5797df5d4d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.650c28d8.chunk.css.map": "/static/css/2.650c28d8.chunk.css.map",
-    "static/css/main.489568b5.chunk.css.map": "/static/css/main.489568b5.chunk.css.map",
+    "static/css/main.1fc54645.chunk.css.map": "/static/css/main.1fc54645.chunk.css.map",
     "static/js/2.acc185e9.chunk.js.LICENSE.txt": "/static/js/2.acc185e9.chunk.js.LICENSE.txt",
     "static/media/Studypack.scss": "/static/media/Banner.a3d09554.svg",
     "static/media/Advanced.svg": "/static/media/Advanced.fea2fdcf.svg",
@@ -26,7 +26,7 @@
     "static/media/Dots.svg": "/static/media/Dots.b5e83b6e.svg",
     "static/media/Edit-profile.svg": "/static/media/Edit-profile.df325ef8.svg",
     "static/media/Great-Listener.svg": "/static/media/Great-Listener.6a867d6b.svg",
-    "static/media/App.scss": "/static/media/Helvetica.6b7f680f.ttc",
+    "static/media/App.scss": "/static/media/Montserrat-Black.561246a3.otf",
     "static/media/Intermediate.svg": "/static/media/Intermediate.fea5ef14.svg",
     "static/media/Learn.svg": "/static/media/Learn.041e2139.svg",
     "static/media/Login Background.svg": "/static/media/Login Background.c00c070d.svg",
@@ -92,7 +92,7 @@
     "static/js/runtime-main.92208f9f.js",
     "static/css/2.650c28d8.chunk.css",
     "static/js/2.acc185e9.chunk.js",
-    "static/css/main.489568b5.chunk.css",
-    "static/js/main.c6e9b32e.chunk.js"
+    "static/css/main.1fc54645.chunk.css",
+    "static/js/main.e9afe329.chunk.js"
   ]
 }

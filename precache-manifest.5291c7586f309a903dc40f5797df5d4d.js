@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0c00582873459ef9dd25dfab5fa3c626",
+    "revision": "86d54dc8e7cb57a854c25563c57edcaf",
     "url": "/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.650c28d8.chunk.css"
   },
   {
-    "revision": "433d85f4bba02479cda6",
-    "url": "/static/css/main.489568b5.chunk.css"
+    "revision": "9c0d1d8d48d79e628f50",
+    "url": "/static/css/main.1fc54645.chunk.css"
   },
   {
     "revision": "d7768319ee8df24c4177",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.acc185e9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "433d85f4bba02479cda6",
-    "url": "/static/js/main.c6e9b32e.chunk.js"
+    "revision": "9c0d1d8d48d79e628f50",
+    "url": "/static/js/main.e9afe329.chunk.js"
   },
   {
     "revision": "81be4d243787e74561e9",
@@ -98,6 +98,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9e515729e0400b5693c93d68d81c269c",
     "url": "/static/media/Medal.9e515729.svg"
+  },
+  {
+    "revision": "561246a3549d3b797b4b611652a79d7c",
+    "url": "/static/media/Montserrat-Black.561246a3.otf"
   },
   {
     "revision": "05a1d5493193a503477cd384019575b8",
