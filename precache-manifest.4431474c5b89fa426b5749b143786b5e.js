@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "10df81fca2f2533c81aca46654e639d1",
+    "revision": "845708159e2677ccb47e51fe0289ce9e",
     "url": "/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.9175b2dd.chunk.css"
   },
   {
-    "revision": "1b0f2cf3b8fc88e0ce1d",
-    "url": "/static/css/main.cf2694f9.chunk.css"
+    "revision": "d3720f81e651539c6ed8",
+    "url": "/static/css/main.c2fc570d.chunk.css"
   },
   {
     "revision": "9fad5abd555ddd83185b",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.acc185e9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1b0f2cf3b8fc88e0ce1d",
-    "url": "/static/js/main.6ca30046.chunk.js"
+    "revision": "d3720f81e651539c6ed8",
+    "url": "/static/js/main.b00a7a57.chunk.js"
   },
   {
     "revision": "81be4d243787e74561e9",
@@ -100,8 +100,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Medal.9e515729.svg"
   },
   {
-    "revision": "561246a3549d3b797b4b611652a79d7c",
-    "url": "/static/media/Montserrat-Black.561246a3.otf"
+    "revision": "9c71d42b6a840ecfda8fc555040a1c76",
+    "url": "/static/media/Montserrat-Bold.9c71d42b.otf"
   },
   {
     "revision": "05a1d5493193a503477cd384019575b8",

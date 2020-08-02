@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.cf2694f9.chunk.css",
-    "main.js": "/static/js/main.6ca30046.chunk.js",
+    "main.css": "/static/css/main.c2fc570d.chunk.css",
+    "main.js": "/static/js/main.b00a7a57.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.92208f9f.js",
     "static/css/2.9175b2dd.chunk.css": "/static/css/2.9175b2dd.chunk.css",
     "static/js/2.acc185e9.chunk.js": "/static/js/2.acc185e9.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.6a44697d9c0cdedac1f41e332768376a.js": "/precache-manifest.6a44697d9c0cdedac1f41e332768376a.js",
+    "precache-manifest.4431474c5b89fa426b5749b143786b5e.js": "/precache-manifest.4431474c5b89fa426b5749b143786b5e.js",
     "service-worker.js": "/service-worker.js",
     "static/js/2.acc185e9.chunk.js.LICENSE.txt": "/static/js/2.acc185e9.chunk.js.LICENSE.txt",
     "static/media/Studypack.scss": "/static/media/Banner.a3d09554.svg",
@@ -21,7 +21,7 @@
     "static/media/Dots.svg": "/static/media/Dots.b5e83b6e.svg",
     "static/media/Edit-profile.svg": "/static/media/Edit-profile.df325ef8.svg",
     "static/media/Great-Listener.svg": "/static/media/Great-Listener.6a867d6b.svg",
-    "static/media/App.scss": "/static/media/Montserrat-Black.561246a3.otf",
+    "static/media/App.scss": "/static/media/Montserrat-Bold.9c71d42b.otf",
     "static/media/Intermediate.svg": "/static/media/Intermediate.fea5ef14.svg",
     "static/media/Learn.svg": "/static/media/Learn.041e2139.svg",
     "static/media/Login Background.svg": "/static/media/Login Background.c00c070d.svg",
@@ -87,7 +87,7 @@
     "static/js/runtime-main.92208f9f.js",
     "static/css/2.9175b2dd.chunk.css",
     "static/js/2.acc185e9.chunk.js",
-    "static/css/main.cf2694f9.chunk.css",
-    "static/js/main.6ca30046.chunk.js"
+    "static/css/main.c2fc570d.chunk.css",
+    "static/js/main.b00a7a57.chunk.js"
   ]
 }
