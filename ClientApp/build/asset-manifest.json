@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.8194955c.chunk.css",
-    "main.js": "/static/js/main.b559244b.chunk.js",
+    "main.css": "/static/css/main.e95bb0c6.chunk.css",
+    "main.js": "/static/js/main.6ac30bd6.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.92208f9f.js",
     "static/css/2.9175b2dd.chunk.css": "/static/css/2.9175b2dd.chunk.css",
     "static/js/2.e8da029e.chunk.js": "/static/js/2.e8da029e.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.fb9bfccd61d3e0df350b4ed38b946341.js": "/precache-manifest.fb9bfccd61d3e0df350b4ed38b946341.js",
+    "precache-manifest.a142dd1888c8b1080f0d0b698b6390be.js": "/precache-manifest.a142dd1888c8b1080f0d0b698b6390be.js",
     "service-worker.js": "/service-worker.js",
     "static/js/2.e8da029e.chunk.js.LICENSE.txt": "/static/js/2.e8da029e.chunk.js.LICENSE.txt",
     "static/media/Studypack.scss": "/static/media/Banner.a3d09554.svg",
@@ -58,14 +58,14 @@
     "static/media/edit.svg": "/static/media/edit.c911ded1.svg",
     "static/media/eye.svg": "/static/media/eye.7c88c63f.svg",
     "static/media/facebook.svg": "/static/media/facebook.89bd7fca.svg",
-    "static/media/flex1.png": "/static/media/flex1.3c72cdd2.png",
-    "static/media/Landingpage.scss": "/static/media/video-background.75bb315a.png",
+    "static/media/flex1.png": "/static/media/flex1.6f230655.png",
+    "static/media/Landingpage.scss": "/static/media/video-background.02852401.png",
     "static/media/google.svg": "/static/media/google.8a400f5e.svg",
     "static/media/heart.svg": "/static/media/heart.8d608d57.svg",
     "static/media/logo.png": "/static/media/logo.0171e8a3.png",
     "static/media/logo.svg": "/static/media/logo.4b77d44e.svg",
     "static/media/logout.svg": "/static/media/logout.c353bb88.svg",
-    "static/media/macbook.png": "/static/media/macbook.7f4d5da2.png",
+    "static/media/macbook.png": "/static/media/macbook.14a103ed.png",
     "static/media/more.svg": "/static/media/more.c34b7010.svg",
     "static/media/pair.png": "/static/media/pair.c80362dd.png",
     "static/media/play-button.svg": "/static/media/play-button.cf9f9d67.svg",
@@ -75,11 +75,11 @@
     "static/media/speedy.svg": "/static/media/speedy.3836b80f.svg",
     "static/media/spinner.svg": "/static/media/spinner.eda5ea9d.svg",
     "static/media/streak.svg": "/static/media/streak.f6d9edbc.svg",
-    "static/media/student.png": "/static/media/student.e61da22c.png",
-    "static/media/students.png": "/static/media/students.a8c4be1a.png",
+    "static/media/student.png": "/static/media/student.b47e034c.png",
+    "static/media/students.png": "/static/media/students.b32f4a4a.png",
     "static/media/sub.svg": "/static/media/sub.b382b389.svg",
     "static/media/subscribe.svg": "/static/media/subscribe.32e046a7.svg",
-    "static/media/teacher.png": "/static/media/teacher.ac7ee6ef.png",
+    "static/media/teacher.png": "/static/media/teacher.63f1573a.png",
     "static/media/twitter.svg": "/static/media/twitter.5bc841c6.svg",
     "static/media/user.svg": "/static/media/user.fb453f3c.svg"
   },
@@ -87,7 +87,7 @@
     "static/js/runtime-main.92208f9f.js",
     "static/css/2.9175b2dd.chunk.css",
     "static/js/2.e8da029e.chunk.js",
-    "static/css/main.8194955c.chunk.css",
-    "static/js/main.b559244b.chunk.js"
+    "static/css/main.e95bb0c6.chunk.css",
+    "static/js/main.6ac30bd6.chunk.js"
   ]
 }
