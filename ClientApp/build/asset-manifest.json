@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.e95bb0c6.chunk.css",
-    "main.js": "/static/js/main.6ac30bd6.chunk.js",
+    "main.js": "/static/js/main.31c64cb4.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.92208f9f.js",
     "static/css/2.9175b2dd.chunk.css": "/static/css/2.9175b2dd.chunk.css",
     "static/js/2.e8da029e.chunk.js": "/static/js/2.e8da029e.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.a142dd1888c8b1080f0d0b698b6390be.js": "/precache-manifest.a142dd1888c8b1080f0d0b698b6390be.js",
+    "precache-manifest.c22bd6bae3a60f481fa13fd3c3aa1448.js": "/precache-manifest.c22bd6bae3a60f481fa13fd3c3aa1448.js",
     "service-worker.js": "/service-worker.js",
     "static/js/2.e8da029e.chunk.js.LICENSE.txt": "/static/js/2.e8da029e.chunk.js.LICENSE.txt",
     "static/media/Studypack.scss": "/static/media/Banner.a3d09554.svg",
@@ -47,7 +47,7 @@
     "static/media/back.svg": "/static/media/back.0b79adb6.svg",
     "static/media/banner1.svg": "/static/media/banner1.847df671.svg",
     "static/media/beep1.mp3": "/static/media/beep1.d26d6dc5.mp3",
-    "static/media/clock.svg": "/static/media/clock.a6fd60bf.svg",
+    "static/media/clock.svg": "/static/media/clock.cb9a061b.svg",
     "static/media/close.svg": "/static/media/close.4bb24ef1.svg",
     "static/media/coins.svg": "/static/media/coins.8ec5a5de.svg",
     "static/media/credit-card.svg": "/static/media/credit-card.89cd0e26.svg",
@@ -88,6 +88,6 @@
     "static/css/2.9175b2dd.chunk.css",
     "static/js/2.e8da029e.chunk.js",
     "static/css/main.e95bb0c6.chunk.css",
-    "static/js/main.6ac30bd6.chunk.js"
+    "static/js/main.31c64cb4.chunk.js"
   ]
 }
