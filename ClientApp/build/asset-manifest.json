@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.e95bb0c6.chunk.css",
-    "main.js": "/static/js/main.5164851a.chunk.js",
+    "main.css": "/static/css/main.54431379.chunk.css",
+    "main.js": "/static/js/main.b65fe17b.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.92208f9f.js",
     "static/css/2.9175b2dd.chunk.css": "/static/css/2.9175b2dd.chunk.css",
-    "static/js/2.e8da029e.chunk.js": "/static/js/2.e8da029e.chunk.js",
+    "static/js/2.f206a5bf.chunk.js": "/static/js/2.f206a5bf.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.65726d213de883f97690951dbe6f31a1.js": "/precache-manifest.65726d213de883f97690951dbe6f31a1.js",
+    "precache-manifest.59c68c9dcff7477ab37a20168329d9c2.js": "/precache-manifest.59c68c9dcff7477ab37a20168329d9c2.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.e8da029e.chunk.js.LICENSE.txt": "/static/js/2.e8da029e.chunk.js.LICENSE.txt",
+    "static/js/2.f206a5bf.chunk.js.LICENSE.txt": "/static/js/2.f206a5bf.chunk.js.LICENSE.txt",
     "static/media/Studypack.scss": "/static/media/Banner.a3d09554.svg",
     "static/media/Advanced.svg": "/static/media/Advanced.fea2fdcf.svg",
     "static/media/Badge1.svg": "/static/media/Badge1.0ccfded9.svg",
@@ -86,8 +86,8 @@
   "entrypoints": [
     "static/js/runtime-main.92208f9f.js",
     "static/css/2.9175b2dd.chunk.css",
-    "static/js/2.e8da029e.chunk.js",
-    "static/css/main.e95bb0c6.chunk.css",
-    "static/js/main.5164851a.chunk.js"
+    "static/js/2.f206a5bf.chunk.js",
+    "static/css/main.54431379.chunk.css",
+    "static/js/main.b65fe17b.chunk.js"
   ]
 }
