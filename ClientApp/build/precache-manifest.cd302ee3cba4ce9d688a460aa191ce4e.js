@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9742d6bd7502e5e1854833168bb48583",
+    "revision": "72b142b77705cdd60208ec6e57d414fa",
     "url": "/index.html"
   },
   {
-    "revision": "20fa8e827eb6da4978d6",
+    "revision": "9fad5abd555ddd83185b",
     "url": "/static/css/2.9175b2dd.chunk.css"
   },
   {
-    "revision": "67ea330b317b72d0e822",
-    "url": "/static/css/main.1c80185e.chunk.css"
+    "revision": "7e4239df427a8b66ca92",
+    "url": "/static/css/main.8194955c.chunk.css"
   },
   {
-    "revision": "20fa8e827eb6da4978d6",
-    "url": "/static/js/2.51ec76d5.chunk.js"
+    "revision": "9fad5abd555ddd83185b",
+    "url": "/static/js/2.acc185e9.chunk.js"
   },
   {
     "revision": "8ff236aebd3ef9288df9cc1b9c914678",
-    "url": "/static/js/2.51ec76d5.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.acc185e9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "67ea330b317b72d0e822",
-    "url": "/static/js/main.36599ac2.chunk.js"
+    "revision": "7e4239df427a8b66ca92",
+    "url": "/static/js/main.4607d424.chunk.js"
   },
   {
     "revision": "81be4d243787e74561e9",
@@ -80,6 +80,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Great-Listener.6a867d6b.svg"
   },
   {
+    "revision": "6b7f680f0632e14e043a81c8a67f1fb1",
+    "url": "/static/media/Helvetica.6b7f680f.ttc"
+  },
+  {
     "revision": "fea5ef145b2b94bf171918255b162250",
     "url": "/static/media/Intermediate.fea5ef14.svg"
   },
@@ -94,6 +98,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9e515729e0400b5693c93d68d81c269c",
     "url": "/static/media/Medal.9e515729.svg"
+  },
+  {
+    "revision": "9c71d42b6a840ecfda8fc555040a1c76",
+    "url": "/static/media/Montserrat-Bold.9c71d42b.otf"
   },
   {
     "revision": "05a1d5493193a503477cd384019575b8",
@@ -180,8 +188,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/beep1.d26d6dc5.mp3"
   },
   {
-    "revision": "cb9a061b68ef02de937c0ad98f98eeed",
-    "url": "/static/media/clock.cb9a061b.svg"
+    "revision": "a6fd60bf338457d41ea481ae09ea1237",
+    "url": "/static/media/clock.a6fd60bf.svg"
   },
   {
     "revision": "4bb24ef1bc4a5a94d21bff6b8805bd54",
@@ -228,8 +236,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fb.eb19062e.svg"
   },
   {
-    "revision": "6f230655a479097c8cf793e8b0638999",
-    "url": "/static/media/flex1.6f230655.png"
+    "revision": "3c72cdd290d45d81caf70a2a1ff27cb3",
+    "url": "/static/media/flex1.3c72cdd2.png"
   },
   {
     "revision": "b92205f4f61bbb7b0786c61f02501186",
@@ -260,8 +268,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/logout.c353bb88.svg"
   },
   {
-    "revision": "14a103ed8d3d6c9cadb9f95081972e60",
-    "url": "/static/media/macbook.14a103ed.png"
+    "revision": "7f4d5da27964c1c55d93cfddaea9b202",
+    "url": "/static/media/macbook.7f4d5da2.png"
   },
   {
     "revision": "c34b7010e4a04f9b61b430d0e6a78f36",
@@ -304,12 +312,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/streak.f6d9edbc.svg"
   },
   {
-    "revision": "b47e034c97368122bc163e0ef1f50b42",
-    "url": "/static/media/student.b47e034c.png"
+    "revision": "e61da22c55960577921220f9277d9600",
+    "url": "/static/media/student.e61da22c.png"
   },
   {
-    "revision": "b32f4a4a0df31a1dd477af7205a50818",
-    "url": "/static/media/students.b32f4a4a.png"
+    "revision": "a8c4be1a07a54e3f4bda26ef75a1df8f",
+    "url": "/static/media/students.a8c4be1a.png"
   },
   {
     "revision": "b382b38984fd33f338acf18fababc3a2",
@@ -320,8 +328,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/subscribe.32e046a7.svg"
   },
   {
-    "revision": "63f1573a99330cd60ec60f1c37729aae",
-    "url": "/static/media/teacher.63f1573a.png"
+    "revision": "ac7ee6ef2b66f468cef01106c2515c6a",
+    "url": "/static/media/teacher.ac7ee6ef.png"
   },
   {
     "revision": "f2e9bbdc2f1d2a7c9e497732bfbbcd36",
@@ -336,7 +344,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/user.fb453f3c.svg"
   },
   {
-    "revision": "028524012882e1871fcbedaffb533571",
-    "url": "/static/media/video-background.02852401.png"
+    "revision": "75bb315a4bdd0fbc0c394140a4ff7802",
+    "url": "/static/media/video-background.75bb315a.png"
   }
 ]);
